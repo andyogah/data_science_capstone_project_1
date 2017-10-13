@@ -11,7 +11,7 @@ analysis valuable to the US Department of Homeland Security, other government es
 safety of lives and properties. It is my way of giving back to an adopted nation, and help save lives
 
 
-#### Goals ###
+#### Statistical Questions and/or Goals ###
 
 * To what accuracy can we predict the group name (gname) of terrorist attackers in the USA?
 * Are attacks in the US inbreed or originating from other countries?
