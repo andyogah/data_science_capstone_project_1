@@ -15,7 +15,7 @@ safety of lives and properties. It is my way of giving back to my adopted nation
 * Are attacks in the US inbreed or originating from other countries?
 * Can we compare predicition accuracy based on number of classes in a target variable?
 
-Things of notes here is:
+Things of notes here are:
 1. The original dataset is too large, and cannot be uploaded on here. It can be downloaded from http://www.start.umd.edu/gtd/ after filling out a form and providing personal information. However, i have an abridged version of the spreadsheet on here restricted to cases in the USA.
 2. My approach to this analysis can be applied to the full dataset with minor tweaks and/or other countries. I will be making progressive updates on this analysis and model based on feedback from industry experts and University of Maryland GTD data owners. 
 3. I propose more questions being asked of this data as analysis progress.
