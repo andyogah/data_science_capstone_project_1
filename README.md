@@ -14,7 +14,7 @@ safety of lives and properties. It is a way of giving back to my nation, and hel
 #### Statistical Questions and/or Goals ###
 
 * To what accuracy can we predict the group name (gname) of terrorist attackers in the USA?
-* Are attacks in the US inbreed or originating from other countries?
+* Are attacks in the US by US citizens or foreign nationals?
 * Can we compare predicition accuracy based on number of classes in a target variable?
 
 Things of notes here are:
