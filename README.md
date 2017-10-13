@@ -19,7 +19,7 @@ The analysis will be progressively reviewed based on feedback from industry expe
 #### Statistical Questions and/or Goals ###
 
 * To what accuracy can we predict the group name (gname) of terrorist attackers in the USA?
-* Are attacks in the US by US citizens or foreign nationals?
+* Are attacks in the US more by US citizens or foreign nationals?
 * Can we compare predicition accuracy based on number of classes in a target variable?
 
 Things of notes here are:
