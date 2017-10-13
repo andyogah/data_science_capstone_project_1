@@ -12,7 +12,7 @@ safety of lives and properties. It is my way of giving back to my adopted nation
 #### Goals ###
 
 * To what accuracy can we predict the group name (gname) of terrorist attackers in the USA?
-* Are attacks in the US native breed or originating from other countries?
+* Are attacks in the US inbreed or originating from other countries?
 * Can we compare predicition accuracy based on number of classes in a target variable?
 
 Things of notes here is:
