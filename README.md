@@ -6,10 +6,9 @@
 
 #### Abstract
 
-Terrorism is nothing new, and open to different interpretation. If you ask me, and any other layperson on the street what that means, you would probably get a response of some foreign negative impact on lives and properties. However, looking at the Las Vegas shooting, which is regarded as the deadliest ever gun attack in the US that killed at least 59 and injured 527 people, then reality sets in. The question now is do we classify such a terrorist attack or not? Is the US imploding from inside out or outside in? Can we tell beforehand where this is coming from and going? These questions are begging answers, and form the core of my analysis. 
+Terrorism is nothing new, and open to different interpretation. If you ask me, and any other layperson on the street what that means, you would probably get a response of some foreign negative impact on lives and properties. However, looking at the last Las Vegas shooting on Sunday, October 1, 2017, which is regarded as the deadliest ever gun attack in the US that killed at least 59 and injured 527 people, then reality sets in. The question now is do we classify such a terrorist attack or not? Is the US imploding from inside out or outside in? Can we tell beforehand where this is coming from and going? These questions are begging answers, and form the core of my analysis. 
 
-This work is based on a real life dataset from the Global Terrorism Database (GTD) maintained by the University of Maryland. Its purpose is
-to gain insights into current state of terrorism in the US, and possibly making predictions of future unrewarded risks. I foresee this 
+This work is based on a real life dataset from the Global Terrorism Database (GTD) maintained by the University of Maryland. Its purpose is to gain insights into current state of terrorism in the US, and possibly making predictions of future unrewarded risks. I foresee this 
 analysis valuable to the US Department of Homeland Security, other government establishments, businesses or individuals that care about 
 safety of lives and properties. It is also my way of giving back to help save lives.
 
