@@ -11,7 +11,7 @@ safety of lives and properties.
 
 #### Goals ###
 
-* To what accuracy can we predict the group name (gname) of terrorist attacks in the USA?
+* To what accuracy can we predict the group name (gname) of terrorist attackers in the USA?
 * Are attacks in the US native breed or originating from other countries?
 
 Things of notes here is:
