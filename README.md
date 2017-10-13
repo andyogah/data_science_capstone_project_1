@@ -13,6 +13,7 @@ safety of lives and properties.
 
 * To what accuracy can we predict the group name (gname) of terrorist attackers in the USA?
 * Are attacks in the US native breed or originating from other countries?
+* Can we compare predicition accuracy based on number of classes in a target variable?
 
 Things of notes here is:
 1. The original dataset is too large, and cannot be uploaded on here. It can be downloaded from http://www.start.umd.edu/gtd/ after filling out a form and providing personal information. However, i have an abridged version of the spreadsheet on here restricted to cases in the USA.
