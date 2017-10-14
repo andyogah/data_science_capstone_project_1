@@ -1,6 +1,9 @@
 
-#### Critiquing Mentor: Dr. Stylianos Kampakis
-#### Last update of GTD is 06/2017
+## Insights and Analysis of Terrorism in the US. 
+###### Using Global Terrorism Database (GTD) @ http://www.start.umd.edu/gtd/
+###### Last update of GTD is 06/2017
+###### Critiquing Mentor: Dr. Stylianos Kampakis
+
 
 
 
