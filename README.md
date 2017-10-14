@@ -1,4 +1,4 @@
-#### data_science_capstone_project_1
+
 #### Critiquing Mentor: Dr. Stylianos Kampakis
 #### Last update of GTD is 06/2017
 
