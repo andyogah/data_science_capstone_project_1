@@ -9,7 +9,7 @@
 
 #### Abstract
 
-Terrorism is open to different interpretation. Depending on who you ask, the responses you get would be different. Most will probably say it is a negative foreign impact on lives and properties. However, recent shootings like in the case of last Las Vegas on October 1, 2017, and that of Texas church shootings a month after may tells a different story. Could such be classified as terrorist attacks based on the nationality of the perpetrators? Is the US imploding from inside out or outside in? Can we tell beforehand the trend of such occurrences? These questions are begging answers, and form the core of my analysis. 
+Terrorism is open to different interpretation. Depending on who you ask, the responses you get would be different. Most will probably say it is a negative foreign impact on lives and properties. However, recent shootings like in the case of last Las Vegas on October 1, 2017, and that of Texas church shootings a month after tells a different story. Could such be classified as terrorist attacks based on the nationality of the perpetrators? Is the US imploding from inside out or outside in? Can we tell beforehand the trend of such occurrences? These questions are begging answers, and form the core of my analysis. 
 
 This work is based on a real-life dataset from the Global Terrorism Database (GTD) maintained by the University of Maryland. Its purpose is to gain insights into the current state of terrorism in the US, and possibly classifying if attacker groups are either domestic or foreign and also making predictions of future unrewarded risks. I foresee this analysis valuable to anyone that cares about the safety of lives and properties. 
 
