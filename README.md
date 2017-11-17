@@ -6,6 +6,7 @@
 
 
 ![alt text](http://cdn.cnn.com/cnnnext/dam/assets/171031163817-11-manhattan-incident-1031-screengrab-exlarge-169.jpg)
+
 Picture courtesy of www.cnn.com
 
 
